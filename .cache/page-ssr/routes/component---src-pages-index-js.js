@@ -2854,7 +2854,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-Object(function webpackMissingModule() { var e = new Error("Cannot find module '../../public/page-data/sq/d/4175596634.json'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
+/* harmony import */ var _public_page_data_sq_d_4175596634_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../public/page-data/sq/d/4175596634.json */ "./public/page-data/sq/d/4175596634.json");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_helmet__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-helmet */ "./node_modules/react-helmet/es/Helmet.js");
@@ -2866,7 +2866,7 @@ const Seo = ({
 }) => {
   const {
     strapiGlobal
-  } = Object(function webpackMissingModule() { var e = new Error("Cannot find module '../../public/page-data/sq/d/4175596634.json'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
+  } = _public_page_data_sq_d_4175596634_json__WEBPACK_IMPORTED_MODULE_0__.data;
   const {
     siteName,
     defaultSeo,
@@ -2954,7 +2954,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-Object(function webpackMissingModule() { var e = new Error("Cannot find module '../../public/page-data/sq/d/960431041.json'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
+/* harmony import */ var _public_page_data_sq_d_960431041_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../public/page-data/sq/d/960431041.json */ "./public/page-data/sq/d/960431041.json");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/layout */ "./src/components/layout.js");
@@ -2971,7 +2971,7 @@ const IndexPage = () => {
   const {
     allStrapiArticle,
     strapiGlobal
-  } = Object(function webpackMissingModule() { var e = new Error("Cannot find module '../../public/page-data/sq/d/960431041.json'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
+  } = _public_page_data_sq_d_960431041_json__WEBPACK_IMPORTED_MODULE_0__.data;
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(_components_layout__WEBPACK_IMPORTED_MODULE_2__["default"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(_components_seo__WEBPACK_IMPORTED_MODULE_4__["default"], {
     seo: {
       metaTitle: "Home"
@@ -4380,6 +4380,28 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 module.exports = [];
+
+/***/ }),
+
+/***/ "./public/page-data/sq/d/4175596634.json":
+/*!***********************************************!*\
+  !*** ./public/page-data/sq/d/4175596634.json ***!
+  \***********************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"data":{"strapiGlobal":{"siteName":"Strapi Blog","favicon":{"localFile":{"url":"http://localhost:1337/uploads/favicon_726b5d9d19.png"}},"defaultSeo":{"metaTitle":"Page","metaDescription":"A blog made with Strapi","shareImage":{"localFile":{"url":"http://localhost:1337/uploads/default_image_2dcdfd154f.png"}}}}}}');
+
+/***/ }),
+
+/***/ "./public/page-data/sq/d/960431041.json":
+/*!**********************************************!*\
+  !*** ./public/page-data/sq/d/960431041.json ***!
+  \**********************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"data":{"allStrapiArticle":{"nodes":[{"id":"7545ac03-c6dc-5d14-8662-b8213ef531d1","slug":"the-internet-s-own-boy","title":"The internet\'s Own boy","description":"Follow the story of Aaron Swartz, the boy who could change the world","cover":{"alternativeText":"An image uploaded to Strapi called the-internet-s-own-boy","localFile":{"childImageSharp":{"gatsbyImageData":{"layout":"constrained","backgroundColor":"#180808","images":{"fallback":{"src":"/static/05b3298e7ea2e75108482fe178c5040d/4611e/the_internet_s_own_boy_44064311f6.jpg","srcSet":"/static/05b3298e7ea2e75108482fe178c5040d/a0d9b/the_internet_s_own_boy_44064311f6.jpg 300w,\\n/static/05b3298e7ea2e75108482fe178c5040d/00b4e/the_internet_s_own_boy_44064311f6.jpg 600w,\\n/static/05b3298e7ea2e75108482fe178c5040d/4611e/the_internet_s_own_boy_44064311f6.jpg 1200w","sizes":"(min-width: 1200px) 1200px, 100vw"},"sources":[{"srcSet":"/static/05b3298e7ea2e75108482fe178c5040d/dc425/the_internet_s_own_boy_44064311f6.webp 300w,\\n/static/05b3298e7ea2e75108482fe178c5040d/7802b/the_internet_s_own_boy_44064311f6.webp 600w,\\n/static/05b3298e7ea2e75108482fe178c5040d/2dc4e/the_internet_s_own_boy_44064311f6.webp 1200w","type":"image/webp","sizes":"(min-width: 1200px) 1200px, 100vw"}]},"width":1200,"height":678}}}}},{"id":"4a1498b6-ae0b-50ff-bb60-41a8de12f582","slug":"this-shrimp-is-awesome","title":"This shrimp is awesome","description":"Mantis shrimps, or stomatopods, are marine crustaceans of the order Stomatopoda.","cover":{"alternativeText":"An image uploaded to Strapi called this-shrimp-is-awesome","localFile":{"childImageSharp":{"gatsbyImageData":{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/6f0e13bb06edd9d632a5b4ebd296d748/4611e/this_shrimp_is_awesome_d4665ba287.jpg","srcSet":"/static/6f0e13bb06edd9d632a5b4ebd296d748/a0d9b/this_shrimp_is_awesome_d4665ba287.jpg 300w,\\n/static/6f0e13bb06edd9d632a5b4ebd296d748/00b4e/this_shrimp_is_awesome_d4665ba287.jpg 600w,\\n/static/6f0e13bb06edd9d632a5b4ebd296d748/4611e/this_shrimp_is_awesome_d4665ba287.jpg 1200w","sizes":"(min-width: 1200px) 1200px, 100vw"},"sources":[{"srcSet":"/static/6f0e13bb06edd9d632a5b4ebd296d748/dc425/this_shrimp_is_awesome_d4665ba287.webp 300w,\\n/static/6f0e13bb06edd9d632a5b4ebd296d748/7802b/this_shrimp_is_awesome_d4665ba287.webp 600w,\\n/static/6f0e13bb06edd9d632a5b4ebd296d748/2dc4e/this_shrimp_is_awesome_d4665ba287.webp 1200w","type":"image/webp","sizes":"(min-width: 1200px) 1200px, 100vw"}]},"width":1200,"height":678}}}}},{"id":"31ec628e-0d6c-55c1-a8d6-2217acc66a50","slug":"a-bug-is-becoming-a-meme-on-the-internet","title":"A bug is becoming a meme on the internet","description":"How a bug on MySQL is becoming a meme on the internet","cover":{"alternativeText":"An image uploaded to Strapi called a-bug-is-becoming-a-meme-on-the-internet","localFile":{"childImageSharp":{"gatsbyImageData":{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/4a768c85a950e2b1212c438ca9e087ae/96073/a_bug_is_becoming_a_meme_on_the_internet_90bc26a31d.jpg","srcSet":"/static/4a768c85a950e2b1212c438ca9e087ae/6d62e/a_bug_is_becoming_a_meme_on_the_internet_90bc26a31d.jpg 907w,\\n/static/4a768c85a950e2b1212c438ca9e087ae/8027f/a_bug_is_becoming_a_meme_on_the_internet_90bc26a31d.jpg 1814w,\\n/static/4a768c85a950e2b1212c438ca9e087ae/96073/a_bug_is_becoming_a_meme_on_the_internet_90bc26a31d.jpg 3628w","sizes":"(min-width: 3628px) 3628px, 100vw"},"sources":[{"srcSet":"/static/4a768c85a950e2b1212c438ca9e087ae/54e53/a_bug_is_becoming_a_meme_on_the_internet_90bc26a31d.webp 907w,\\n/static/4a768c85a950e2b1212c438ca9e087ae/f9df6/a_bug_is_becoming_a_meme_on_the_internet_90bc26a31d.webp 1814w,\\n/static/4a768c85a950e2b1212c438ca9e087ae/853d8/a_bug_is_becoming_a_meme_on_the_internet_90bc26a31d.webp 3628w","type":"image/webp","sizes":"(min-width: 3628px) 3628px, 100vw"}]},"width":3628,"height":2050}}}}},{"id":"257add35-b2e9-5de9-be03-9d0c7583b9e2","slug":"beautiful-picture","title":"Beautiful picture","description":"Description of a beautiful picture","cover":{"alternativeText":"An image uploaded to Strapi called beautiful-picture","localFile":{"childImageSharp":{"gatsbyImageData":{"layout":"constrained","backgroundColor":"#081818","images":{"fallback":{"src":"/static/03b86a3f0fa157735ff405db49fd51a9/4272e/beautiful_picture_26076a3346.jpg","srcSet":"/static/03b86a3f0fa157735ff405db49fd51a9/2b362/beautiful_picture_26076a3346.jpg 956w,\\n/static/03b86a3f0fa157735ff405db49fd51a9/5997e/beautiful_picture_26076a3346.jpg 1912w,\\n/static/03b86a3f0fa157735ff405db49fd51a9/4272e/beautiful_picture_26076a3346.jpg 3824w","sizes":"(min-width: 3824px) 3824px, 100vw"},"sources":[{"srcSet":"/static/03b86a3f0fa157735ff405db49fd51a9/ab9f3/beautiful_picture_26076a3346.webp 956w,\\n/static/03b86a3f0fa157735ff405db49fd51a9/6bf29/beautiful_picture_26076a3346.webp 1912w,\\n/static/03b86a3f0fa157735ff405db49fd51a9/840d4/beautiful_picture_26076a3346.webp 3824w","type":"image/webp","sizes":"(min-width: 3824px) 3824px, 100vw"}]},"width":3824,"height":2160}}}}},{"id":"40318be6-4d3f-5c6a-8ae5-5c1b328b1c04","slug":"what-s-inside-a-black-hole","title":"What\'s inside a Black Hole","description":"Maybe the answer is in this article, or not...","cover":{"alternativeText":"An image uploaded to Strapi called what-s-inside-a-black-hole","localFile":{"childImageSharp":{"gatsbyImageData":{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/4c516f33e6e3298ce7a5e312da05d070/c470b/what_s_inside_a_black_hole_3c8664aa39.jpg","srcSet":"/static/4c516f33e6e3298ce7a5e312da05d070/1bf32/what_s_inside_a_black_hole_3c8664aa39.jpg 200w,\\n/static/4c516f33e6e3298ce7a5e312da05d070/19ad5/what_s_inside_a_black_hole_3c8664aa39.jpg 400w,\\n/static/4c516f33e6e3298ce7a5e312da05d070/c470b/what_s_inside_a_black_hole_3c8664aa39.jpg 800w","sizes":"(min-width: 800px) 800px, 100vw"},"sources":[{"srcSet":"/static/4c516f33e6e3298ce7a5e312da05d070/b6124/what_s_inside_a_black_hole_3c8664aa39.webp 200w,\\n/static/4c516f33e6e3298ce7a5e312da05d070/09f8f/what_s_inside_a_black_hole_3c8664aa39.webp 400w,\\n/static/4c516f33e6e3298ce7a5e312da05d070/cee7b/what_s_inside_a_black_hole_3c8664aa39.webp 800w","type":"image/webp","sizes":"(min-width: 800px) 800px, 100vw"}]},"width":800,"height":452}}}}}]},"strapiGlobal":{"siteName":"Strapi Blog","siteDescription":"A Blog made with Strapi"}}}');
 
 /***/ })
 
